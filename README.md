@@ -1,11 +1,14 @@
 # About Me🌿
 
-Hello! I'm a passionate professional with a robust background in scientific research and environmental conservation, now embarking on an exciting journey into software development. 
-As I transition into software development, I'm eager to leverage my analytical, communication, and project coordination skills to contribute to not only technologically advanced but also environmentally conscious and scientifically grounded projects.
+Hello! I am a dedicated professional with a strong foundation in scientific research and environmental conservation, currently venturing into the realm of software development. With a Bachelor of Science and a postgraduate degree in Entomology, I have developed a comprehensive understanding of biological and ecological dynamics. As I make this transition, I aim to utilize my analytical abilities, communication skills, and project coordination experience to contribute to projects that are both technologically innovative and environmentally sustainable. Additionally, I am keen on applying my technical writing expertise to create and enhance documentation in the web development space.
+My unique combination of scientific and technological expertise enables me to create solutions that are informed by science and driven by a commitment to sustainability.
+
 # What I Bring Along?🔍
 - **Analytical Skills**:  Adept at dissecting complex problems, identifying patterns, and proposing evidence-based solutions.
 
 - **Communication**: Skilled in translating technical findings into understandable insights for diverse audiences.
+ 
+- **Technical Writing**: Experienced in writing and editing scientific documents and looking to contribute to documentation in the web development space.
 
 - **Project Management**: Proven capability in leading projects from conception to completion, ensuring efficiency and quality.
 
