@@ -1,6 +1,8 @@
 # About Me🌿
 
-Hello! I am a dedicated professional with a strong foundation in scientific research and environmental conservation, currently venturing into the realm of software development. With a Bachelor of Science and a postgraduate degree in Entomology, I have developed a comprehensive understanding of biological and ecological dynamics. As I make this transition, I aim to utilize my analytical abilities, communication skills, and project coordination experience to contribute to projects that are both technologically innovative and environmentally sustainable. Additionally, I am keen on applying my technical writing expertise to create and enhance documentation in the web development space.
+Hello! I am a dedicated professional with a strong foundation in scientific research and environmental conservation, currently venturing into the realm of software development. With a Bachelor of Science and a postgraduate degree in Entomology, I have developed a comprehensive understanding of biological and ecological dynamics. 
+
+As I make this transition, I aim to utilize my analytical abilities, communication skills, and project coordination experience to contribute to projects that are both technologically innovative and environmentally sustainable. Additionally, I am keen on applying my technical writing expertise to create and enhance documentation in the web development space.
 My unique combination of scientific and technological expertise enables me to create solutions that are informed by science and driven by a commitment to sustainability.
 
 # What I Bring Along?🔍
